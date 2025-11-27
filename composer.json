@@ -1,0 +1,15 @@
+{
+    "name": "kyurzburg/TestPlugin",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "yexshaffed\\github\\": "src/yexshaffed/github/"
+        }
+    },
+    "extra": {
+        "virion": {
+            "spec": "3.0",
+            "namespace-root": "yexshaffed\\github"
+        }
+    }
+}

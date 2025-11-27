@@ -1,0 +1,7 @@
+projects:
+  TestPlugin:
+    path: ""
+    type: plugin
+    libs:
+      - src: kyurzburg/TestPlugin
+        version: ^0.0.1
